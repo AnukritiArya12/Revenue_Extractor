@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+data/processed/
+data/reports/*.pdf
+data/reports/*.docx
+
+.env
+.venv/
+__pycache__/
+*.pyc
